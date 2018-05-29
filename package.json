@@ -1,0 +1,16 @@
+{
+  "name": "car-app",
+  "version": "1.0.0",
+  "description": "Car Dealership App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Brock",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "npm": "^6.1.0"
+  }
+}
